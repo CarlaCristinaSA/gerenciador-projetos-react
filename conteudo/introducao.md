@@ -1,4 +1,4 @@
-# Anotações de Aula: Introdução ao React
+# Aula 02: Introdução ao React
 
 ## 1. O que é o React?
 O React é uma biblioteca JavaScript desenvolvida pelo Facebook (Meta) para a criação de **interfaces de usuário (UI)**. Ele é focado na camada de visualização e permite criar aplicações complexas de forma declarativa.
