@@ -77,7 +77,7 @@ O React (via ESLint/Compilador) monitora o código e emite avisos no console cas
 
 
 ## Código da Aula:
-```
+```javascript
 import './App.css';
 
 function sum(a, b) {
@@ -147,3 +147,4 @@ function App() {
 
 
 export default App;
+```
