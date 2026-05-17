@@ -1,10 +1,10 @@
-# Gerenciador de Projetos React
+# Estudos de Projeto de Interface Web (PIW)
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-Repositório criado para fins de estudo durante o curso **"React do Zero a Maestria"** do instrutor Matheus Battisti (Hora de Codar). O objetivo é aprender os fundamentos da biblioteca e a construção de Single Page Applications (SPAs).
+Repositório criado para fins de estudo da cadeira **Projeto de Interface Web** na **Universidade Federal do Ceará (UFC)**. O objetivo é praticar os conceitos da disciplina e desenvolver interfaces web.
 
 ---
 
@@ -54,6 +54,6 @@ Após o comando, a aplicação estará disponível em:
 
 ---
 
-✨ *Estudo desenvolvido por Carla Cristina como parte da graduação em Engenharia de Software (UFC).*
+✨ *Estudo desenvolvido por Carla Cristina como parte da graduação em Engenharia de Software na UFC.*
 
 ---
