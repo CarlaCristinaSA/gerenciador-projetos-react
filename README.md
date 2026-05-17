@@ -54,7 +54,7 @@ Após o comando, a aplicação estará disponível em:
 
 ---
 
-📄 [Acessar o Roteiro de Estudos para a Prova de Front-End](./nome-do-seu-arquivo.md)
+📄 [Acessar o Roteiro de Estudos para a Prova de Front-End](./CONTEUDOS.md)
 
 ✨ *Estudo desenvolvido por Carla Cristina como parte da graduação em Engenharia de Software na UFC.*
 
